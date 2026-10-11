@@ -13,7 +13,7 @@ I'd love to hear from you: [rashmitaparmanik9876@gmail.com](mailto:rashmitaparma
 
 ### What I've built
 
-**[Caret](https://github.com/RashP07/caret-ui)**: a design system for tools where people and agents build software together.
+**[Caret](https://github.com/RashP07/caret-ui)**: beautiful React components with accessibility and motion built in.
 40+ keyboard-complete components on Base UI, eight themes in light and dark, and a theme solver
 that fails the build if any color pairing drops below its WCAG contrast target. It also ships an
 `llms.txt` so coding agents can use it correctly. [See it live →](https://caretui.rashmitaparmanik.com)<br>
