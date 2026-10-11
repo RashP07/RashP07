@@ -7,7 +7,7 @@ own time I build design systems, browser graphics and data pipelines.
 **I'm open to software engineering roles** (frontend, full-stack or product engineering).
 I'd love to hear from you: [rashmitaparmanik9876@gmail.com](mailto:rashmitaparmanik9876@gmail.com)
 
-[Portfolio](https://rashmitaparmanik.com) · [LinkedIn](https://www.linkedin.com/in/rashmita-parmanik-7b3346221/) · [LeetCode](https://leetcode.com/rashmita_20/) · [Email](mailto:rashmitaparmanik9876@gmail.com)
+🌐 **[rashmitaparmanik.com](https://rashmitaparmanik.com)** · [LinkedIn](https://www.linkedin.com/in/rashmita-parmanik-7b3346221/) · [LeetCode](https://leetcode.com/rashmita_20/) · [Email](mailto:rashmitaparmanik9876@gmail.com)
 
 ---
 
